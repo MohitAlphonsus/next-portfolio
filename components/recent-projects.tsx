@@ -27,7 +27,7 @@ export default function RecentProjects() {
 								<Image
 									src={item.img}
 									alt="cover"
-									className="z-10 absolute bottom-0 h-[90%] w-[90%]"
+									className="z-10 absolute bottom-0 h-full object-top object-cover w-full rotate-z-12 "
 									width={100}
 									height={100}
 								/>

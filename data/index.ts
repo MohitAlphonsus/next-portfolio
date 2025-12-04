@@ -72,10 +72,10 @@ export const gridItems = [
 export const projects = [
 	{
 		id: 1,
-		title: "3D Solar System Planets to Explore",
-		des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-		img: "/p1.svg",
-		iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+		title: "Reusable Admin Dashboard Frontend",
+		des: "The repo provides a ready-to-use frontend layout — a dashboard template with components, layouts and styling — ideal when you have a backend or API that delivers data in a compatible structure.",
+		img: "/admin-dashboard.svg",
+		iconLists: ["/re.svg", "/tail.svg", "/postg.svg", "/chart.svg"],
 		link: "https://github.com/adrianhajdin?tab=repositories",
 	},
 	{
